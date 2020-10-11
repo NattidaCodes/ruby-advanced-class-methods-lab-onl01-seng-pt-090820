@@ -39,6 +39,7 @@ class Song
       song
     else
       self.new
+    end
 
   end
 
